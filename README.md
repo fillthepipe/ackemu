@@ -2,8 +2,6 @@
 Ackemu is a UDP-based tool that sends large segments as data packets and returns small segments as ACK packets.
 
 ## Configure & Run
-Experimental enviroment here is two server with both wireless and physical network cards and one router.
-
 Before you run the test please configure config.py
 
 After that, run ```python ackemu.py```
